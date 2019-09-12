@@ -1,0 +1,16 @@
+PODS:
+  - SLCategory (0.1.0)
+
+DEPENDENCIES:
+  - SLCategory (from `../`)
+
+EXTERNAL SOURCES:
+  SLCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SLCategory: fc7ce6ec14598d4b0d06802ae92fdcad4ec63b36
+
+PODFILE CHECKSUM: 6dbb97ed62e760c04c6b412fd66e3176d6e8c95a
+
+COCOAPODS: 1.7.5

@@ -1,0 +1,22 @@
+{
+  "name": "SLCategory",
+  "version": "0.1.0",
+  "summary": "This is a SLCategory pod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/forestfsl/SLCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "forestfsl": "fengsonglin@beiyugame.com"
+  },
+  "source": {
+    "git": "https://github.com/forestfsl/SLCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SLCategory/Classes/**/*"
+}
